@@ -1,0 +1,5 @@
+i=input("Enter three String :")
+a=i.split()
+b=max(a, key =len)
+print("Longest word ",b)
+print("Lenth of word",len(b))
